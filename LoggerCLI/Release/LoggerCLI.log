@@ -1,0 +1,5 @@
+﻿  RasmioLogger.cpp
+  CoreLogger.lib(RasmioLogger.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+  Generating code
+  Finished generating code
+  LoggerCLI.vcxproj -> C:\Users\mirce\OneDrive\Documents\Rasmio Logger\CoreLogger\Release\LoggerCLI.dll

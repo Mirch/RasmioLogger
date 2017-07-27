@@ -1,0 +1,8 @@
+C:\Users\mirce\OneDrive\Documents\Rasmio Logger\CoreLogger\RasmioLoggerSandbox\obj\Release\RasmioLoggerSandbox.csprojResolveAssemblyReference.cache
+C:\Users\mirce\OneDrive\Documents\Rasmio Logger\CoreLogger\RasmioLoggerSandbox\bin\Release\RasmioLoggerSandbox.exe.config
+C:\Users\mirce\OneDrive\Documents\Rasmio Logger\CoreLogger\RasmioLoggerSandbox\bin\Release\RasmioLoggerSandbox.exe
+C:\Users\mirce\OneDrive\Documents\Rasmio Logger\CoreLogger\RasmioLoggerSandbox\bin\Release\RasmioLoggerSandbox.pdb
+C:\Users\mirce\OneDrive\Documents\Rasmio Logger\CoreLogger\RasmioLoggerSandbox\bin\Release\LoggerCLI.dll
+C:\Users\mirce\OneDrive\Documents\Rasmio Logger\CoreLogger\RasmioLoggerSandbox\bin\Release\LoggerCLI.pdb
+C:\Users\mirce\OneDrive\Documents\Rasmio Logger\CoreLogger\RasmioLoggerSandbox\obj\Release\RasmioLoggerSandbox.exe
+C:\Users\mirce\OneDrive\Documents\Rasmio Logger\CoreLogger\RasmioLoggerSandbox\obj\Release\RasmioLoggerSandbox.pdb
